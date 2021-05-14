@@ -12,7 +12,7 @@
     "express": "~4.15.2",
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
-    "mongodb": "^2.2.25",
+    "mongodb": "^2.2.36",
     "monk": "^4.0.0",
     "serve-favicon": "~2.4.2"
   }
